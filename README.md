@@ -11,4 +11,9 @@ An important part of our study was find out the main differences between all the
 During the analysis we have built up maps that shows differences between the different zones in New York. All the informations about those zones can be find in [this](https://github.com/CriMenghini/ADM-2018/blob/master/Homework_2/taxi_zones.json) file.
 
 # Script
-`Homework_2.ipynb`: this notebook contains all the results and the plots that we found interesting to accomplish our analysis goals
+
+* `Homework_2.ipynb`: this notebook contains all the results and the plots that we found interesting to accomplish our analysis goals.
+
+* `dropoff.html` and `pickup.html` : these are the two maps that were created during the analysis. 
+
+
