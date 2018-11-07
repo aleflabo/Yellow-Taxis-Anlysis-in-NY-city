@@ -13,7 +13,7 @@ During the analysis we have built up maps that shows differences between the dif
 
 # Files
 
-* `Homework_2.ipynb`: this notebook contains all the results and the plots that we have found interesting to accomplish our analysis goals.
+* `Homework_2.ipynb`: this notebook contains all the analysis, the results and the charts that we have found interesting to accomplish our analysis goals.
 
 * `dropoff.html` and `pickup.html` : these are the two maps that have been created during the analysis. 
 
