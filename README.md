@@ -1,5 +1,7 @@
 # Analysis of the yellow taxis' rides in New York city during the first semester of 2018
-The file illustrates and presents the differences and the distribution upon different zones and in different months.   
+
+This analysis tries to point out some interresting informations about all the rides made in the first semester of 2018. The work concentrats both in the whole NY city and in the single zones.  
+
 
 ## Get data to analyze
 
